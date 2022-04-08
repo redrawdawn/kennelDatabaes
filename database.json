@@ -2,7 +2,10 @@
     "animals": [
         { "id": 1, "name": "Doodles", "breed": "Poodle"},
         { "id": 2, "name": "Parsley", "breed": "Great Dane" },
-        { "id": 3, "name": "Esme", "breed": "Pitbull" }
+        { "id": 3, "name": "Esme", "breed": "Pitbull" },
+        { "id": 4, "name": "Lola", "breed": "Farret"},
+        { "id": 5, "name": "Atticus", "breed": "Cat"}
+        
     ],
     "customers": [
         {
@@ -10,13 +13,34 @@
             "name": "Luke Skywalker",
             "address": "976 Tatooine Dr."
         },
-         {
+        {
             "id": 2,
             "name": "Padmé Amidala",
             "address": "1211 Naboo Lane"
+        },
+        {
+            "id": 3,
+            "name": "Noah Winkler",
+            "address": "a box on zoom"
+        },
+        {
+            "id": 4,
+            "name": "Chris Larson",
+            "address": "next to Atticus"
         }
     ],
-    "employees": [],
+    "employees": [
+        {
+            "id": 1,
+            "name": "Psycho Sam",
+            "job": "Anesthesiologist"
+        },
+        {
+            "id": 2,
+            "name": "Dr. Jeckyl",
+            "job": "Doctor"
+        }
+    ],
     "locations": [
         {
             "id": 1,
